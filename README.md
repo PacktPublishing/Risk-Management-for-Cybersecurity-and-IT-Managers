@@ -29,7 +29,3 @@ N/A
 * [CISSP®️ Certification Domain 1: Security and Risk Management Video Boot Camp 2019 [Video]](https://www.packtpub.com/application-development/cissp-certification-domain-1-security-and-risk-management-video-boot-camp)
 
 * [Demystifying Identity and Access Management [Video]](https://www.packtpub.com/virtualization-and-cloud/demystifying-identity-access-management-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789531992">https://packt.link/free-ebook/9781789531992 </a> </p>
